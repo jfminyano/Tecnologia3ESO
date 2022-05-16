@@ -1,0 +1,29 @@
+{
+    "name": "this",
+    "description": "Error de sintaxis en pxt.json",
+    "dependencies": {
+        "microphone": "*"
+    },
+    "files": [
+        "tsconfig.json",
+        "test.ts",
+        "README.md",
+        ".vscode/settings.json",
+        ".vscode/tasks.json",
+        "main.blocks",
+        "main.ts",
+        ".simstate.json",
+        ".git.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
